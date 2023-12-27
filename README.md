@@ -1,1 +1,5 @@
 # Tugas-Logika-Fuzzy
+
+NAMA   : ANDINI SEPTIANI
+NIM    : E1E120059
+KELAS  : GANJIL
